@@ -1,6 +1,6 @@
 {
   "name": "logger-line-number",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "jinwei_zhiyuan logger",
   "main": "index.js",
   "scripts": {
