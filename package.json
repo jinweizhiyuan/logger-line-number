@@ -1,0 +1,22 @@
+{
+  "name": "logger-line-number",
+  "version": "1.0.0",
+  "description": "jinwei_zhiyuan logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/jinweizhiyuan/nodejs_logger"
+  },
+  "keywords": [
+    "nodejs",
+    "logger",
+    "with",
+    "line",
+    "filename"
+  ],
+  "author": "jinwei_zhiyuan",
+  "license": "GPL-3.0"
+}
