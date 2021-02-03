@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/jinweizhiyuan/nodejs_logger"
+    "url": "git@github.com:jinweizhiyuan/nodejs_logger"
   },
   "keywords": [
     "nodejs",
