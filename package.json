@@ -1,15 +1,38 @@
 {
-  "name": "logger-line-number",
-  "version": "1.0.2",
+  "_from": "logger-line-number",
+  "_id": "logger-line-number@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-pFPLOxu40tC7gYNDcXvQLPA4FFHLcUhqWvpnid2DM7v8MWme2zYVKqgX5d/5TmIbHJkaYEKQH0AfeVwGxxZTYA==",
+  "_location": "/logger-line-number",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "logger-line-number",
+    "name": "logger-line-number",
+    "escapedName": "logger-line-number",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/logger-line-number/-/logger-line-number-1.0.4.tgz",
+  "_shasum": "2d04002602add8292d42c75857d332aeac2914f7",
+  "_spec": "logger-line-number",
+  "_where": "E:\\Workspace\\2021\\tmp",
+  "author": {
+    "name": "jinwei_zhiyuan"
+  },
+  "bugs": {
+    "url": "https://github.com/jinweizhiyuan/nodejs_logger/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "jinwei_zhiyuan logger",
-  "main": "index.js",
-  "scripts": {
-    "test": "node test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:jinweizhiyuan/nodejs_logger"
-  },
+  "homepage": "https://github.com/jinweizhiyuan/nodejs_logger#readme",
   "keywords": [
     "nodejs",
     "logger",
@@ -17,6 +40,15 @@
     "line",
     "filename"
   ],
-  "author": "jinwei_zhiyuan",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "name": "logger-line-number",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jinweizhiyuan/nodejs_logger.git"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "version": "1.0.4"
 }

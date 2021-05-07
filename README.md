@@ -1,4 +1,4 @@
-# 1 logger-line-number
+# logger-line-number
 
 nodejs logger utility with name and linen number
 
@@ -9,7 +9,7 @@ npm install logger-line-number
 ## Usage
 
 ```javascript
-const logger = require('./index.js')
+const logger = require('logger-line-number')
 
 logger.log('test')
 //2021-02-03 13:28:30 test.js:3:8 [INFO] test

@@ -1,4 +1,4 @@
-const logger = require('./index.js')
+const logger = require('logger-line-number')
 
 logger.log('test')
 
